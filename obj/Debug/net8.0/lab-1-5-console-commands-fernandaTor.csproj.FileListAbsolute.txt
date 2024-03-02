@@ -1,0 +1,15 @@
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\bin\Debug\net8.0\lab-1-5-console-commands-fernandaTor.exe
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\bin\Debug\net8.0\lab-1-5-console-commands-fernandaTor.deps.json
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\bin\Debug\net8.0\lab-1-5-console-commands-fernandaTor.runtimeconfig.json
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\bin\Debug\net8.0\lab-1-5-console-commands-fernandaTor.dll
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\bin\Debug\net8.0\lab-1-5-console-commands-fernandaTor.pdb
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.AssemblyInfoInputs.cache
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.AssemblyInfo.cs
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.csproj.CoreCompileInputs.cache
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.sourcelink.json
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.dll
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\refint\lab-1-5-console-commands-fernandaTor.dll
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.pdb
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\lab-1-5-console-commands-fernandaTor.genruntimeconfig.cache
+C:\Users\ferna\my-code-dir\lab-1-5-console-commands-fernandaTor\obj\Debug\net8.0\ref\lab-1-5-console-commands-fernandaTor.dll
